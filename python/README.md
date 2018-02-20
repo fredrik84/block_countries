@@ -1,6 +1,6 @@
 ### Dependencies
 ```
-apt-get install ipset
+apt-get install ipset python3 python3-pip
 pip3 install -r requirements.txt
 ```
 
