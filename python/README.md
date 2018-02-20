@@ -1,5 +1,5 @@
 # Dependencies:
-APT: apt-get install libipset3
+APT: apt-get install ipset
 
 PIP: pip3 install -r requirements.txt
 
