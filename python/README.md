@@ -1,7 +1,7 @@
 # Dependencies:
-APT: libipset3
+APT: apt-get install libipset3
 
-PIP: requirements.txt
+PIP: pip3 install -r requirements.txt
 
 # Add Ukraine, China and Russia, log output to path
 sudo ./block.py --add --country ua,cn,ru --logfile </custom/path/to/logfile>
